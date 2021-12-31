@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1039954330939",
+    "project_id": "toddler-school",
+    "storage_bucket": "toddler-school.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039954330939:android:5bc5562c08d564d46ea31e",
+        "android_client_info": {
+          "package_name": "com.example.toddler_school"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039954330939-vmrhd1k3rc75ule7es24et4qhu8ndo5p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.toddler_school",
+            "certificate_hash": "fa0db81a31b0962d7c18abfd18c852865b4f5e97"
+          }
+        },
+        {
+          "client_id": "1039954330939-r3dbb1cc7dj1nq6p3oiqhqi80p4vpke6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE3kgIryAZbbjcIfK5X8ZP2q_s_rzrpLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039954330939-r3dbb1cc7dj1nq6p3oiqhqi80p4vpke6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
