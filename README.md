@@ -1,16 +1,9 @@
 # toddler_school
 
-A new Flutter project.
+![toddler school app snip 1](https://user-images.githubusercontent.com/46129169/148403986-6d8f2c2c-bd26-4f37-bbbc-d368ab330f08.png)
+![toddler school app snip 2](https://user-images.githubusercontent.com/46129169/148404003-5edeb5d8-103e-421a-b668-dcda06e3c9e4.png)
+![toddler school app snip 4](https://user-images.githubusercontent.com/46129169/148404009-dd95f754-14ee-4607-bf02-b3ee0aad5979.png)
+![toddler school snip 3](https://user-images.githubusercontent.com/46129169/148404022-a1276c55-bcec-45ca-9a80-cad48f84da06.png)
+![toddler school snip 4](https://user-images.githubusercontent.com/46129169/148404029-49f6451f-6a48-4615-8a21-6644c97f4d43.png)
+![toddler school snip 5](https://user-images.githubusercontent.com/46129169/148404041-7fdeb0ee-99b9-4389-9b4f-b3f635a544e5.png)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
